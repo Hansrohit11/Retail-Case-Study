@@ -25,8 +25,11 @@ DATA AVAILABILITY:
 Retail Data
 
 o This book has three sheets (Customer, Transaction, Product Heirarchy)
+
 o Customer: Customers information including demographics
+
 o Transaction: Transactions of customers
+
 o Product Heirarchy: Product information (cateogry, sub category etc...) 
 
 BUSINESS PROBLEM:
